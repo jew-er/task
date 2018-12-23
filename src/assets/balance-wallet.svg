@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #46adc6;
+        font-family: Material-Design-Iconic-Font, Material;
+      }
+    </style>
+  </defs>
+  <text id="balance-wallet" class="cls-1" x="0.999" y="16"></text>
+</svg>

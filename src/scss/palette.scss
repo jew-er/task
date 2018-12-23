@@ -1,0 +1,18 @@
+$success: #00d3b3;
+$warning: #ffd133;
+$error: #f17076;
+$overlay: #4f575e;
+$active: #46adc6;
+$bg: rgb(229, 244, 248);
+$cardbg: #fff;
+$cardhoverbg: rgb(243, 249, 250);
+$smalltext: #a7a7a7;
+$secondarytext: #747474;
+$thinborder: rgb(233, 233, 233);
+$generaltext: #5d5d5d;
+
+@mixin center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
